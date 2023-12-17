@@ -3,7 +3,7 @@
 
 😄 **Pronouns:** she/her/hers
 
-👩🏻‍💻 **Website:** a-ramji.github.io  
+👩🏻‍💻 **Website:** [a-ramji.github.io](https://a-ramji.github.io/)  
 
 
 
@@ -11,13 +11,15 @@
 - 🔭 I’m currently working on fall quarter coursework, inlcuding: 
     - working with environmental data sets (Python)
     - statistics in environmental data science (R)
-    - geospatial data (R)
-    - ethics bias in envionmental data science
+    - geospatial data analysis and remote sensing (R)
+    - ethics & bias in envionmental data science
+ 
+
 - 🌱 I’m currently pursuing my Master of Environmental Data Science (MEDS) -- in UC Santa Barbara's Bren School of Envrionmental Science & Management (expected June 2024)
 
 
  
-- 💬 Ask me about *Octopus chierchiae*, UCSB Bren School of Environmental Science & Management's MEDS program
+- 💬 Ask me about *Octopus chierchiae*, UCSB Bren School of Environmental Science & Management's MEDS program, bartending
 
 ### Education
 - BS (honors) (2021) Environmental Sciences --  UC Berkeley: College of Natural Resources
