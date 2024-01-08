@@ -19,8 +19,9 @@
 
 
 ### Education
-- BS (honors) (2021) Environmental Sciences --  UC Berkeley: College of Natural Resources
 - MEDS (expected 2024) Master of Environmental Data Science -- UC Santa Barbara: Bren School of Environmental Science & Management
+- BS (honors) (2021) Environmental Sciences --  UC Berkeley: College of Natural Resources
+
 
 
 
