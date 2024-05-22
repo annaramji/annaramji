@@ -6,15 +6,15 @@
 👩🏻‍💻 **Website:** [annaramji.github.io](https://annaramji.github.io/)  
 
 
-🌱 I’m currently pursuing my Master of Environmental Data Science (MEDS) -- at UCSB's Bren School of Envrionmental Science & Management (expected June 2024)
+🌱 I’m currently pursuing my Master of Environmental Data Science (MEDS) -- at UCSB's Bren School of Environmental Science & Management (expected June 2024)
 
 
 ### What am I up to?
-- 🔭 I’m currently working on winter quarter coursework, inlcuding: 
-    - Machine Learning in Environmental Data Science
-    - Data Visualization and Communication
-    - Environmental Policy Evaluation
-    - Shiny App development
+- 🔭 I’m currently working on spring quarter coursework, including: 
+    - Environmental Modeling (R)
+    - Databases & Data Management (SQL, Python, R)
+    - Text & Sentiment Analysis (R)
+    - Capstone Project -- Identifying Priority Survey Sites for Early-Season Milkweed Conservation
 
 
 
