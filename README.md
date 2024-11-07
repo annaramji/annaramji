@@ -25,7 +25,7 @@
 
 [github-readme-stats](https://github.com/Hard-Coder05/github-readme-stats-1/blob/master/readme.md#top-languages-card)
 
-The majority of my work is actually in R and Quarto Projects using R, R Markdown, and Quarto Markdown. I also do a lot of my work in Jupyter Notebooks.  
+The majority of my work is in Jupyter Notebooks, R Projects, and Quarto Projects using R, R Markdown, Quarto Markdown, and Python. GitHub seems to consider .Rmd and .Qmd files as HTML. I also use CSS, SCSS, HTML, and JavaScript for website development and improving the appearance of markdown files rendered to HTML. I have experience in SQL using duckdb, sqlite3, and am learning how to use PostgreSQL.
 
 --------------------------------
 
