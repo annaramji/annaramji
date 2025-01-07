@@ -7,8 +7,9 @@
 
 
 ### What am I up to?
-- 🌊 I’m currently working on updating the [Ocean Health Index](https://oceanhealthindex.org/) calculations as part of the OHI Fellowship at @[NCEAS](https://www.nceas.ucsb.edu/)
-- 🌱  I recently graduated from the UCSB Bren School of Environmental Science & Management's [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program.
+- ⚡️ I'm currently working as a Data Analyst at [Gridware](https://gridware.io/)
+- 🌊 I recently worked on updating the [Ocean Health Index](https://oceanhealthindex.org/) calculations as part of the OHI Fellowship at @[NCEAS](https://www.nceas.ucsb.edu/)
+- 🌱  I graduated from the UCSB Bren School of Environmental Science & Management's [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program in June 2024.
     - This program culminated in a Capstone Project: Identifying Priority Survey Sites for Early-Season Milkweed Conservation    
  [GitHub Organization](https://github.com/MEDS-SBBG-milkweed)  | [Bren Page](https://bren.ucsb.edu/projects/identifying-priority-survey-sites-early-season-milkweed-conservation)  |   [Technical Documentation](https://bren.ucsb.edu/media/5411)
     - As the Data Manager on this project, I worked to create a [Dryad Archive](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2rbnzs7x4) (DOI 10.5061) of our data products and in-depth data documentation.
@@ -32,6 +33,7 @@ The majority of my work is in Jupyter Notebooks, R Projects, and Quarto Projects
 💬 Ask me about:
 -    🐙 [*Octopus chierchiae*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265292)
 -    🌊 UCSB Bren School of Environmental Science & Management's MEDS program
+-    ⚡️ utility pole equipment
 -    🪴 gardening
 -    👾 indie survival video games
 -    🍸 bartending
