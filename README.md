@@ -12,7 +12,7 @@
 - 🌱  I graduated from the UCSB Bren School of Environmental Science & Management's [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program in June 2024.
     - This program culminated in a Capstone Project: Identifying Priority Survey Sites for Early-Season Milkweed Conservation    
  [GitHub Organization](https://github.com/MEDS-SBBG-milkweed)  | [Bren Page](https://bren.ucsb.edu/projects/identifying-priority-survey-sites-early-season-milkweed-conservation)  |   [Technical Documentation](https://bren.ucsb.edu/media/5411)
-    - As the Data Manager on this project, I worked to create a [Dryad Archive](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2rbnzs7x4) (DOI 10.5061) of our data products and in-depth data documentation.
+    - As the Data Manager on this project, I created a [Dryad Archive](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2rbnzs7x4) (DOI 10.5061) of our data products and in-depth data documentation.
 
 
 
