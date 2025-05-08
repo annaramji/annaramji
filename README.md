@@ -7,8 +7,8 @@
 
 
 ### What am I up to?
-- ⚡️ I'm currently working as a Data Analyst at [Gridware](https://gridware.io/)
-    - The majority of my work is in Databricks and due to config settings, only my merged PRs count as contributions on my contribution plot 🥲
+- ⚡️ I'm currently a Data Analyst at [Gridware](https://gridware.io/)
+    - The majority of my work is in Databricks... and due to config settings, only my merged PRs count as contributions on my contribution plot 🥲
 - 🌊 I recently worked on updating the [Ocean Health Index](https://oceanhealthindex.org/) calculations as part of the OHI Fellowship at @[NCEAS](https://www.nceas.ucsb.edu/)
 - 🌱 I graduated from the UCSB Bren School of Environmental Science & Management's [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program in June 2024.
     - This program culminated in a Capstone Project: Identifying Priority Survey Sites for Early-Season Milkweed Conservation    
@@ -27,7 +27,7 @@
 
 [github-readme-stats](https://github.com/Hard-Coder05/github-readme-stats-1/blob/master/readme.md#top-languages-card)
 
-The majority of my work is in Jupyter Notebooks, R Projects, and Quarto Projects using Python, SQL, R, R Markdown, and Quarto Markdown. I also use CSS, SCSS, HTML, and JavaScript for website development and improving the appearance of markdown files rendered to HTML. I have experience in SQL using duckdb, sqlite3, and PostgreSQL.
+The majority of my work is in Jupyter Notebooks, py scripts, R Projects, and Quarto Projects using Python, SQL, R, R Markdown, and Quarto Markdown. I also use CSS, SCSS, HTML, and JavaScript for website development and improving the appearance of markdown files rendered to HTML. I have experience in SQL using Grafana, DBX, duckdb, sqlite3, and PostgreSQL.
 
 --------------------------------
 
