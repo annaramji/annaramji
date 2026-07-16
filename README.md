@@ -21,11 +21,12 @@
 
 ------------------------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaramji&langs_count=9&theme=radical&layout=compact&hide=Lua)
 
-[github-readme-stats](https://github.com/Hard-Coder05/github-readme-stats-1/blob/master/readme.md#top-languages-card)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=annaramji&langs_count=4)
 
-The majority of my work is in Python, SQL, PostgreSQL, Spark, and HTML. I frequently work in Databricks and Grafana. I have experience working in R Projects and Quarto Projects using Python, SQL, R, R Markdown, and Quarto Markdown. I use CSS, SCSS, HTML, and JavaScript for website development and improving the appearance of markdown files rendered to HTML. I also have experience in duckdb, sqlite3, and setting up jobs and pipelines in DBX and Grafana dashboards.
+[github-stats-extended](https://github.com/stats-organization/github-stats-extended/tree/master/readme.md)
+
+The majority of my work is in Python, SQL, PostgreSQL, Spark, and HTML. I frequently work in Databricks and Grafana. I have experience working in R Projects and Quarto Projects using Python, SQL, R, R Markdown, and Quarto Markdown. I use CSS, SCSS, HTML, and JavaScript for website development and improving the appearance of markdown files rendered to HTML. I also have experience in duckdb, sqlite3, setting up jobs and pipelines in Databricks (DBX), and dashboards in Grafana, DBX, and Shiny.
 
 --------------------------------
 
@@ -38,6 +39,10 @@ The majority of my work is in Python, SQL, PostgreSQL, Spark, and HTML. I freque
 -    🍸 bartending
 
 <!--
+![Anna's GitHub stats](https://github-stats-extended.vercel.app/api?username=annaramji)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaramji&langs_count=9&theme=radical&layout=compact&hide=Lua)
+[github-readme-stats](https://github.com/Hard-Coder05/github-readme-stats-1/blob/master/readme.md#top-languages-card)
+
 **annaramji/annaramji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
